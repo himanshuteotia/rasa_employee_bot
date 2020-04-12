@@ -7,4 +7,5 @@ rasa.db-wal
 __pycache__/
 models/
 env/
+.vscode/
 
